@@ -1,1 +1,44 @@
-<mxfile host="app.diagrams.net" modified="2020-12-06T06:50:45.538Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" version="13.10.9" etag="J5WVg2oMXEsW1BSxSrIX" type="github"><diagram id="P3_gOA3c3ywqLR2Z_UOg">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-06T08:06:54.529Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="V2UlmuIDjCIS1onjMybm" version="13.10.9" type="github">
+  <diagram id="P3_gOA3c3ywqLR2Z_UOg" name="Page-1">
+    <mxGraphModel dx="2031" dy="1103" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cxd20yT5zGRS9aj0eDit-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=24;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endSize=10;" edge="1" parent="1" source="cxd20yT5zGRS9aj0eDit-1" target="cxd20yT5zGRS9aj0eDit-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="665" y="334" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cxd20yT5zGRS9aj0eDit-1" value="Begin" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="361" y="16" width="79" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="cxd20yT5zGRS9aj0eDit-3" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;The Inevitable Heat Death of the Universe&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="269" y="1091" width="334" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="cxd20yT5zGRS9aj0eDit-4" value="Time Portal" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="662" y="484" width="117" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="cxd20yT5zGRS9aj0eDit-5" value="Tragedy" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="236" y="741" width="79" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="cxd20yT5zGRS9aj0eDit-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endSize=10;fontSize=24;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cxd20yT5zGRS9aj0eDit-8" target="cxd20yT5zGRS9aj0eDit-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="349" y="453" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cxd20yT5zGRS9aj0eDit-8" value="Character Creation" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="325" y="115" width="151" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="cxd20yT5zGRS9aj0eDit-11" value="&lt;span&gt;Choose Character Traits&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="340.5" y="219" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cxd20yT5zGRS9aj0eDit-12" value="Inciting Incident" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="230" y="455" width="79" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="cxd20yT5zGRS9aj0eDit-13" value="Guillotine the rich people" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1259" y="347" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
